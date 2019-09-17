@@ -1,0 +1,1 @@
+Git commit --amend is a way to merge two commit to one.
