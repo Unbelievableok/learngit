@@ -4,3 +4,4 @@ feature commit-2
 feature commit-3
 feature commit-4
 feature commit-5
+master commit-1
