@@ -1,3 +1,4 @@
 Git commit --amend is a way to merge two commit to one.
 feature commit-1
 feature commit-2
+feature commit-3
