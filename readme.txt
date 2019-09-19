@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 No FF is a new model.
-FF is a fast-foward model.
+FF is a fast model.
