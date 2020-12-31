@@ -1,2 +1,5 @@
 this is a local bug fix.
 this is A local bug fix.
+test merge squash 01.
+test merge squash 02.
+test merge squash 03.
